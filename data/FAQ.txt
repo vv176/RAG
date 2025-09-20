@@ -1,0 +1,80 @@
+Ques. 1: What is the date of signing this agreement and how long does its tenure hold?
+Ans: This agreement got signed on 18th Sep 2025 and it holds for the next one year.
+
+Ques. 2: Where was this agreement executed?
+Ans: The agreement was executed by electronic signature with places of execution recorded as Bengaluru, Karnataka (for Aster Labs Private Limited) and Gurugram, Haryana (for Nimbus Systems Private Limited). For legal purposes, Bengaluru is deemed the place of execution.
+
+Ques. 3: Who are the parties to this agreement?
+Ans: The parties are Aster Labs Private Limited (“Aster Labs”), having its registered office in Bengaluru, and Nimbus Systems Private Limited (“Nimbus”), having its registered office in Gurugram.
+
+Ques. 4: Who signed and who witnessed the execution?
+Ans: The agreement was signed by the authorised signatories of each party. The signatures were witnessed by Mr. R. Sharma (for Aster Labs) and Ms. P. Iyer (for Nimbus).
+
+Ques. 5: What is the nature and scope of the engagement?
+Ans: Aster Labs subscribes to Nimbus’s software and related professional services for building and maintaining a retrieval-augmented AI solution, including data ingestion, indexing, search, and support.
+
+Ques. 6: What are the deliverables and service levels?
+Ans: Deliverables include a configured production environment, ingestion pipelines, and documentation. Nimbus will provide 99.5% monthly uptime for the hosted components and a response within 4 business hours for Priority-1 incidents.
+
+Ques. 7: What is the fee structure and payment schedule?
+Ans: Fees comprise a fixed annual subscription and usage-based overages as per Annexure-B. Invoices are raised quarterly in advance and payable within 30 days of the invoice date.
+
+Ques. 8: How are taxes handled?
+Ans: All fees are exclusive of applicable taxes. GST and other indirect taxes, if any, shall be charged additionally and borne by the recipient of the services.
+
+Ques. 9: What is the initial term and does it auto-renew?
+Ans: The initial term is twelve (12) months from the effective date and, unless terminated earlier, auto-renews for successive one-year periods unless either party gives at least 30 days’ prior written notice of non-renewal.
+
+Ques. 10: On what grounds can the agreement be terminated early?
+Ans: Either party may terminate for convenience with 30 days’ written notice after the initial term. Either party may terminate for cause with immediate effect upon a material breach not cured within 15 days of notice, or for insolvency events.
+
+Ques. 11: What happens on termination?
+Ans: Each party must return or securely destroy the other party’s confidential information. Nimbus will provide a one-time export of customer data in a standard format within 15 days, and Aster Labs will pay all accrued fees up to the termination effective date.
+
+Ques. 12: What are the confidentiality obligations?
+Ans: Both parties shall keep confidential information strictly confidential, use it only for performing the agreement, disclose it on a need-to-know basis to bound personnel, and protect it using industry-standard safeguards. Obligations survive for three (3) years post-termination (and indefinitely for trade secrets).
+
+Ques. 13: How is personal data protected?
+Ans: Where Nimbus processes personal data for Aster Labs, Nimbus acts as processor and will implement appropriate technical and organisational measures. A Data Processing Addendum (Annexure-C) forms part of this agreement.
+
+Ques. 14: Who owns the intellectual property?
+Ans: Each party retains ownership of its pre-existing IP. Nimbus retains IP in its platform and tools. Subject to full payment, Aster Labs owns the outputs and configurations specific to its environment. Nimbus grants Aster Labs a non-exclusive, non-transferable licence to use the platform during the term.
+
+Ques. 15: Are third-party and open-source components used?
+Ans: Yes. Nimbus may use third-party and open-source components in accordance with their licences. A current list is maintained in Annexure-D; Nimbus will notify Aster Labs of material changes.
+
+Ques. 16: What warranties are provided?
+Ans: Nimbus warrants that the services will conform materially to the documentation, be provided with reasonable skill and care, and that it has the right to provide the services. Except as expressly stated, all other warranties are disclaimed to the extent permitted by law.
+
+Ques. 17: What is the limitation of liability?
+Ans: Except for liability that cannot legally be limited, each party’s aggregate liability under the agreement is capped at the fees paid or payable by Aster Labs in the twelve (12) months preceding the claim. Neither party is liable for indirect or consequential damages, including lost profits or business interruption.
+
+Ques. 18: What indemnities apply?
+Ans: Nimbus will indemnify Aster Labs against third-party claims alleging that the platform infringes IP rights, subject to customary exceptions and Aster Labs’ prompt notice and cooperation. Aster Labs will indemnify Nimbus against claims arising from Aster Labs’ data or unlawful use of the services.
+
+Ques. 19: Can Nimbus subcontract, and can either party assign the agreement?
+Ans: Nimbus may subcontract certain obligations provided it remains responsible for subcontractors. Neither party may assign the agreement without the other’s prior written consent, except to an affiliate or in connection with a merger or sale of substantially all assets.
+
+Ques. 20: Are there restrictions on hiring each other’s staff?
+Ans: For the term and six (6) months thereafter, neither party will solicit employment of the other’s directly involved personnel, except through public job postings or with prior written consent.
+
+Ques. 21: What are the publicity and branding terms?
+Ans: Aster Labs grants Nimbus the right to use its name and logo in customer lists and case studies upon prior written approval from Aster Labs. Each party must follow the other’s brand guidelines.
+
+Ques. 22: How are changes to scope handled?
+Ans: Any change to scope, deliverables, or timelines must be agreed via a written change order specifying impact on fees, schedule, and responsibilities.
+
+Ques. 23: What law governs and which courts have jurisdiction?
+Ans: The agreement is governed by the laws of India. Subject to the arbitration clause, the courts at Bengaluru, Karnataka have exclusive jurisdiction.
+
+Ques. 24: How are disputes resolved?
+Ans: Disputes will first be escalated to senior management. If unresolved within 30 days, disputes shall be finally settled by arbitration under the Arbitration and Conciliation Act, 1996, by a sole arbitrator seated in Bengaluru. Proceedings will be in English.
+
+Ques. 25: What about force majeure?
+Ans: Neither party is liable for delays or non-performance caused by events beyond reasonable control, including natural disasters, government actions, or widespread outages, provided prompt notice is given and efforts are made to mitigate.
+
+Ques. 26: How are notices served?
+Ans: Notices must be in writing and sent by email to the designated legal notices address with a copy by courier to the registered office, deemed received upon delivery confirmation or the next business day for email.
+
+Ques. 27: Do any provisions survive termination?
+Ans: Yes. Provisions relating to fees due, confidentiality, IP ownership, data protection, limitations of liability, indemnity, governing law, dispute resolution, and accrued rights survive termination or expiry.
